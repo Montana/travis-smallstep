@@ -1,7 +1,7 @@
 dist: jammy
 language: go
 group: edge
-sudo: truev
+sudo: true
 
 before_script:
  - chmod u+x step.sh 
