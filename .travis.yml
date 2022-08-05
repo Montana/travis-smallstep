@@ -4,7 +4,6 @@ group: edge
 
 before_script:
  - chmod u+x step.sh 
- - ./step.sh
  
 script: 
  - wget https://dl.step.sm/gh-release/cli/docs-cli-install/v0.20.0/step-cli_0.20.0_amd64.deb
